@@ -29,8 +29,8 @@ Follow these steps to set up and run the project locally:
 Run the following commands in the terminal of your vscode
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install slot-machine-game
+  cd slot-machine-game 
 ```
 Install dependencies
 
